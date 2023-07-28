@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi 👋, I'm Harshil Gamidi</b></h1>
 <h3 align="center"><b>MERN STACK Developer || React Native Developer</b></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavtej&label=Profile%20views&color=0e75b6&style=flat" alt="pranavtej" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshilgamidi&label=Profile%20views&color=0e75b6&style=flat" alt="harshilgamidi" /> </p>
 
 - 🔭 I’m currently working on **React Native Application**
 
@@ -18,9 +18,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/harshil-gamidi-67a02a230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshil gamidi" height="30" width="40" /></a>
 <a href="https://instagram.com/_harshil_rocks?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshil gamidi" height="30" width="40" /></a>
-<a href="https://medium.com/@pranav_mcr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pranav_mcr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pranav_mcr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pranav_mcr" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pranavtej" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranavtej" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/harshilgamidi?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshil gamidi" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/harshil_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="harshil gamidi" height="30" width="40" /></a>
+<a href="https://leetcode.com/harshilgamidi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranavtej" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
