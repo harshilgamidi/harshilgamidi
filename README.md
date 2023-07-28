@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/harshil-gamidi-67a02a230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshil gamidi" height="30" width="40" /></a>
 <a href="https://instagram.com/_harshil_rocks?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshil gamidi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harshilgamidi?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshil gamidi" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harshil_2002" target="blank"><img style="background-color:"white;"" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshil_2002" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/harshil_2002" target="blank"><img style="background-color:white"" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshil_2002" height="30" width="40" /></a>
 <a href="https://leetcode.com/harshilgamidi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranavtej" height="30" width="40" /></a>
 </p>
 
