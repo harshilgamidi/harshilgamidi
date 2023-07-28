@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi 👋, I'm Harshil Gamidi</b></h1>
+<h1 align="center"><b>Hi there👋, I'm Harshil Gamidi</b></h1>
 <h3 align="center"><b>MERN STACK Developer || React Native Developer</b></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshilgamidi&label=Profile%20views&color=0e75b6&style=flat" alt="harshilgamidi" /> </p>
